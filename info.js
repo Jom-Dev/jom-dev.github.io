@@ -29,10 +29,10 @@ let info = {
       place: "Davao City, Philippines",
       work: [
         {
-          date: "July 2020 - June 2022",
-          position: "Junior Web Developer",
+          date: "July 2020 - Present",
+          position: "Web Developer",
           description: "Develop web applications based on office requests, maintain a compelling and functioning websites.",
-          skills: ["HTML5", "CSS3", "Bootstrap5", "Javascript", "VueJS", "C#", "PHP", "ASP.NET", "MySQL"]
+          skills: ["Laravel", "Nuxt", "VueJS - Composition API", "MySQL"]
         },
         {
           date: "July 2019 - June 2020",
